@@ -1,0 +1,4 @@
+https://github.com/ML-course/master
+https://github.com/ML-course/short
+https://github.com/ML-course/automl
+https://github.com/ML-course/engineer
