@@ -1,5 +1,12 @@
+https://code.visualstudio.com/docs/python/environments
+https://code.visualstudio.com/docs/datascience/data-science-tutorial
+https://code.visualstudio.com/docs/python/jupyter-support-py
+https://pandas.pydata.org/docs/user_guide/10min.html
+https://github.com/guipsamora/pandas_exercises
 https://github.com/dipanjanS/practical-machine-learning-with-python
 https://github.com/ML-course/master
 https://github.com/ML-course/short
 https://github.com/ML-course/automl
 https://github.com/ML-course/engineer
+https://github.com/LearnDataSci/articles
+
