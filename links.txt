@@ -9,4 +9,5 @@ https://github.com/ML-course/short
 https://github.com/ML-course/automl
 https://github.com/ML-course/engineer
 https://github.com/LearnDataSci/articles
+https://github.com/mohsenai91/practical-machine-learning-with-python
 
